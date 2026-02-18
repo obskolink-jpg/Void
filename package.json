@@ -1,0 +1,1 @@
+{\n  "name": "void",\n  "version": "1.0.0",\n  "description": "a blank canvas, minimal dependencies, open to anything",\n  "main": "index.js",\n  "scripts": {},\n  "repository": {\n    "type": "git",\n    "url": "https://github.com/obskolink-jpg/void.git"\n  },\n  "author": "obskolink-jpg",\n  "license": "MIT"\n}
